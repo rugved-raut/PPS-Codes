@@ -1,5 +1,5 @@
-/*PRN: 24030331372901
- Name: Siddhant Chandrakant Bhanat
+/*PRN: 24030331378020
+ Name: Rugved RUPESH Raut
  Title: Average via user input
  Date: 
  */
